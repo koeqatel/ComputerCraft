@@ -1,3 +1,4 @@
+//TODO: See if we need anything from here and remove if done
 var express = require("express");
 var app = express();
 var fs = require("fs");
